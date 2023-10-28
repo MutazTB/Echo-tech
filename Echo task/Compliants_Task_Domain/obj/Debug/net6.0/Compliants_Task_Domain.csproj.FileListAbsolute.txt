@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Compliants_Task_Domain\bin\Debug\net6.0\Compliants_Task_Domain.deps.json
+C:\Users\admin\Desktop\Compliants_Task_Domain\bin\Debug\net6.0\Compliants_Task_Domain.runtimeconfig.json
+C:\Users\admin\Desktop\Compliants_Task_Domain\bin\Debug\net6.0\Compliants_Task_Domain.dll
+C:\Users\admin\Desktop\Compliants_Task_Domain\bin\Debug\net6.0\Compliants_Task_Domain.pdb
+C:\Users\admin\Desktop\Compliants_Task_Domain\obj\Debug\net6.0\Compliants_Task_Domain.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Compliants_Task_Domain\obj\Debug\net6.0\Compliants_Task_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Compliants_Task_Domain\obj\Debug\net6.0\Compliants_Task_Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Compliants_Task_Domain\obj\Debug\net6.0\Compliants_Task_Domain.AssemblyInfo.cs
+C:\Users\admin\Desktop\Compliants_Task_Domain\obj\Debug\net6.0\Compliants_Task_Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Compliants_Task_Domain\obj\Debug\net6.0\Compliants_Task_Domain.dll
+C:\Users\admin\Desktop\Compliants_Task_Domain\obj\Debug\net6.0\refint\Compliants_Task_Domain.dll
+C:\Users\admin\Desktop\Compliants_Task_Domain\obj\Debug\net6.0\Compliants_Task_Domain.pdb
+C:\Users\admin\Desktop\Compliants_Task_Domain\obj\Debug\net6.0\Compliants_Task_Domain.genruntimeconfig.cache
+C:\Users\admin\Desktop\Compliants_Task_Domain\obj\Debug\net6.0\ref\Compliants_Task_Domain.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Complaints_Task.props" />
+</Project>

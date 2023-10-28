@@ -1,0 +1,121 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<section class=" text-center text-lg-start">
+<style>
+   
+
+    form {
+        width: 70%;
+        max-width: 600px;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        background: #f9f9f9;
+    }
+
+    label {
+        font-weight: bold;
+    }
+
+    input[type="text"],
+    textarea,
+    input[type="file"] {
+        width: 100%;
+        padding: 8px;
+        margin: 6px 0;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+
+    input[type="submit"],
+    button {
+        padding: 10px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+        input[type="submit"]:hover,
+        button:hover {
+            background-color: #45a049;
+        }
+</style>
+<div class="card mb-3">
+    <div class="row g-0 d-flex align-items-center">
+        <div class="col-lg-8">
+            <div class="card-body py-5 px-md-5">
+                <form id="complaintForm" enctype="multipart/form-data">
+                    <label for="title">Complaint Title:</label><br>
+                    <input type="text" id="title" name="title"><br><br>
+
+                    <label for="description">Complaint Description:</label><br>
+                    <textarea id="description" name="description"></textarea><br><br>
+
+                    <label for="userIdentity">Upload User ID (Image):</label><br>
+                    <input type="file" id="userIdentity" name="userIdentity"><br><br>
+
+                    <hr>
+                    <h3>Demands</h3>
+
+                    <div id="demandsContainer">
+                        <div class="demandEntry">
+                            <label for="demand1">Demand 1:</label><br>
+                            <input type="text" name="demands[0]" class="demandInput"><br><br>
+                        </div>
+                    </div>
+
+                    <button type="button" onclick="addDemandField()">Add Demand</button><br><br>
+
+                    <input type="submit" value="Submit Complaint">
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+<script>
+    function addDemandField() {
+        const demandsContainer = document.getElementById('demandsContainer');
+        const demandCount = demandsContainer.querySelectorAll('.demandEntry').length;
+
+        const newDemandField = document.createElement('div');
+        newDemandField.classList.add('demandEntry');
+        newDemandField.innerHTML = `
+                                <label for="demand${demandCount + 1}">Demand ${demandCount + 1}:</label><br>
+                                <input type="text" name="demands[${demandCount}]" class="demandInput"><br><br>
+                            `;
+
+        demandsContainer.appendChild(newDemandField);
+    }
+
+    document.getElementById('complaintForm').addEventListener('submit', function (e) {
+        e.preventDefault();
+
+        const formData = new FormData(this);
+
+        // Make an AJAX call to submit the form data
+        $.ajax({
+            url: '/Complaints/Create',
+            type: 'POST',
+            data: formData,
+            contentType: false,
+            processData: false,
+            success: function (response) {
+                alert('Complaint submitted successfully!');
+                // Handle success response
+            },
+            error: function (xhr, status, error) {
+                alert('Failed to submit complaint. Error: ' + error + " " + status);
+                // Handle error response
+            }
+        });
+    });
+</script>

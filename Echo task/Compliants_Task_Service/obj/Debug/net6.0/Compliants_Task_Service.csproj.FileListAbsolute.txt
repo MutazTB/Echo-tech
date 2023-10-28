@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Compliants_Task_Service\bin\Debug\net6.0\Compliants_Task_Service.deps.json
+C:\Users\admin\Desktop\Compliants_Task_Service\bin\Debug\net6.0\Compliants_Task_Service.dll
+C:\Users\admin\Desktop\Compliants_Task_Service\bin\Debug\net6.0\Compliants_Task_Service.pdb
+C:\Users\admin\Desktop\Compliants_Task_Service\obj\Debug\net6.0\Compliants_Task_Service.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Compliants_Task_Service\obj\Debug\net6.0\Compliants_Task_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Compliants_Task_Service\obj\Debug\net6.0\Compliants_Task_Service.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Compliants_Task_Service\obj\Debug\net6.0\Compliants_Task_Service.AssemblyInfo.cs
+C:\Users\admin\Desktop\Compliants_Task_Service\obj\Debug\net6.0\Compliants_Task_Service.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Compliants_Task_Service\obj\Debug\net6.0\Compliants_Task_Service.dll
+C:\Users\admin\Desktop\Compliants_Task_Service\obj\Debug\net6.0\refint\Compliants_Task_Service.dll
+C:\Users\admin\Desktop\Compliants_Task_Service\obj\Debug\net6.0\Compliants_Task_Service.pdb
+C:\Users\admin\Desktop\Compliants_Task_Service\obj\Debug\net6.0\ref\Compliants_Task_Service.dll
+C:\Users\admin\Desktop\Compliants_Task_Service\bin\Debug\net6.0\Complaints_Task_Repository.dll
+C:\Users\admin\Desktop\Compliants_Task_Service\bin\Debug\net6.0\Compliants_Task_Domain.dll
+C:\Users\admin\Desktop\Compliants_Task_Service\bin\Debug\net6.0\Complaints_Task_Repository.pdb
+C:\Users\admin\Desktop\Compliants_Task_Service\bin\Debug\net6.0\Compliants_Task_Domain.pdb
+C:\Users\admin\Desktop\Compliants_Task_Service\obj\Debug\net6.0\Compliants_Task_Service.csproj.CopyComplete

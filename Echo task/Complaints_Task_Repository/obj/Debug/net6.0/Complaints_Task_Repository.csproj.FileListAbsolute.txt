@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Complaints_Task_Repository\bin\Debug\net6.0\Complaints_Task_Repository.deps.json
+C:\Users\admin\Desktop\Complaints_Task_Repository\bin\Debug\net6.0\Complaints_Task_Repository.dll
+C:\Users\admin\Desktop\Complaints_Task_Repository\bin\Debug\net6.0\Complaints_Task_Repository.pdb
+C:\Users\admin\Desktop\Complaints_Task_Repository\obj\Debug\net6.0\Complaints_Task_Repository.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Complaints_Task_Repository\obj\Debug\net6.0\Complaints_Task_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Complaints_Task_Repository\obj\Debug\net6.0\Complaints_Task_Repository.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Complaints_Task_Repository\obj\Debug\net6.0\Complaints_Task_Repository.AssemblyInfo.cs
+C:\Users\admin\Desktop\Complaints_Task_Repository\obj\Debug\net6.0\Complaints_Task_Repository.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Complaints_Task_Repository\obj\Debug\net6.0\Complaints_Task_Repository.dll
+C:\Users\admin\Desktop\Complaints_Task_Repository\obj\Debug\net6.0\refint\Complaints_Task_Repository.dll
+C:\Users\admin\Desktop\Complaints_Task_Repository\obj\Debug\net6.0\Complaints_Task_Repository.pdb
+C:\Users\admin\Desktop\Complaints_Task_Repository\obj\Debug\net6.0\ref\Complaints_Task_Repository.dll
+C:\Users\admin\Desktop\Complaints_Task_Repository\bin\Debug\net6.0\Compliants_Task_Domain.dll
+C:\Users\admin\Desktop\Complaints_Task_Repository\bin\Debug\net6.0\Compliants_Task_Domain.pdb
+C:\Users\admin\Desktop\Complaints_Task_Repository\obj\Debug\net6.0\Complaints_Task_Repository.csproj.CopyComplete
